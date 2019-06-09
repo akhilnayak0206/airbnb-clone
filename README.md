@@ -1,6 +1,7 @@
 Welcome to React Project.
 
 To start making this website first we need to create-react-app airbnb-clone. /*You can use any name instead of airbnb-clone*/
+
 Make sure that you have npm or yarn installed in the PC.
 Then run npm start or yarn start.
 You can also clone this project and then run npm start.

@@ -1,5 +1,7 @@
 Welcome to React Project.
 
+This project was made with the help of coding bootcamp held by Le Wagon.
+
 To start making this website first we need to create-react-app airbnb-clone. *You can use any name instead of airbnb-clone*
 
 Make sure that you have npm or yarn installed in the PC.
@@ -16,4 +18,6 @@ For filtering through the flats in search box RegEx is used for making it non ca
 Marker is made with the help of css and a different react class is made for it.
 
 This is my first React Website so if you have any suggestion or doubt do let me know.
-Thank You.
+Thank You Sébastien Saunier for helping me with React.
+
+ThankYou.Peace.
